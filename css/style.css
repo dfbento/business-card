@@ -1,0 +1,27 @@
+.card {
+    background: url("../img/backgorund.png") no-repeat;
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    background-size: cover;
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h3{
+    font-style: italic;
+}
+
+.linkedin {
+    list-style-image: url("../img/linkedin.png")
+}
+
+.github {
+    list-style-image: url("../img/github.png");
+}
